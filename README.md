@@ -8,3 +8,5 @@ The data was collected and standardized in excel which was imported into a .csv 
 
 
 ![Table Head](https://raw.githubusercontent.com/DrewBowdish/Cattle-Records/main/Head.png)
+
+# Analysis
