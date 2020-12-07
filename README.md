@@ -10,3 +10,10 @@ The data was collected and standardized in excel which was imported into a .csv 
 ![Table Head](https://raw.githubusercontent.com/DrewBowdish/Cattle-Records/main/Head.png)
 
 # Analysis
+The analysis showed that the weight from 5/15 resulted in a good line of fit in the table Wt/DofA by 205Wt. There was little deviation from the line of best fit due to the coordination of weight at a specific point of time and the average weight gained in that period of time. The deviation of from the line of best fit comes from the error in the weighing of the calves. 
+
+![Wt/DofA by 205Wt]()
+
+The table of Wt by Wt/DofA on 5-15 shows reasonable deviation from the line of best fit. This shows the difference in the performance of the calves, where the higher performance calves are to the right of the  best fit line and the poor performers to the left. The caves that are above and to the right the line are older and beginning to lose their growth performance.
+
+![Wt by Wt/DofA ]()
