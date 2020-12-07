@@ -17,3 +17,8 @@ The analysis showed that the weight from 5/15 resulted in a good line of fit in 
 The table of Wt by Wt/DofA on 5-15 shows reasonable deviation from the line of best fit. This shows the difference in the performance of the calves, where the higher performance calves are to the right of the  best fit line and the poor performers to the left. The caves that are above and to the right the line are older and beginning to lose their growth performance.
 
 ![Wt by Wt/DofA ](https://raw.githubusercontent.com/DrewBowdish/Cattle-Records/main/WtDofAbyWt.png)
+
+# Visualization
+This shows the distibution of the data. It is what you would expect with some with stunted growth and an even distibution of a population.
+
+![Distibution](https://raw.githubusercontent.com/DrewBowdish/Cattle-Records/main/WtbyWtDofAgraph.png)
